@@ -1,0 +1,46 @@
+{
+  "source": {
+    "repo": "sisyphuslabs/omo-service",
+    "paths": [
+      "packages/contract/src/sync-format/",
+      "fixtures/sync-v1/ (data only)"
+    ]
+  },
+  "files": {
+    "fixtures/sync-v1/README.md": "cbqUKJl4bAnAMG_vffSlr3BRa8p2qdM0a6Od-r99Fhs",
+    "fixtures/sync-v1/accounting.json": "CWV75cgEjTlR_U0CFtIKF3cjjUsT7RDa1CZYGuOlRlo",
+    "fixtures/sync-v1/chain.json": "DqEHR4v8Gxbj_dEhjj_6uJLK87cuEVHlknskcBtyMW0",
+    "fixtures/sync-v1/corrupted/batch-a-bad-ciphertext-byte.omob": "tsqI_aqNPizRL2zNs_z8h9IwyVdai3rARYbmmF3KsWM",
+    "fixtures/sync-v1/corrupted/batch-a-bad-header-byte.omob": "dssZ3KCTOF6ipJdALrlvgYmX9PnrrES33zYDP8dKfBc",
+    "fixtures/sync-v1/corrupted/batch-a-bad-header-length.omob": "mXq5KbkaCOlUBxFUR8zh8BOogMrJiIplzbrgZgK2_Xs",
+    "fixtures/sync-v1/corrupted/batch-a-bad-magic.omob": "J8uae0g_xhzO_bPR7n6zwOmjpQIfGnPxoWfzChEPcBQ",
+    "fixtures/sync-v1/corrupted/batch-a-bad-major.omob": "rxC6hsJsKO0rb_aAOjFCkaFfIlwbDy_DWFRtlOiRbH0",
+    "fixtures/sync-v1/corrupted/batch-a-bad-signature-byte.omob": "lQSQVY7gE7cWvJfVl6XtVF1BEdfVBEG7wLRU_2bEOq4",
+    "fixtures/sync-v1/corrupted/batch-a-cut-tail.omob": "dM0W64mHHDgAR8tTbqN4fnJBaYkYpX3fZjTxfujlUqo",
+    "fixtures/sync-v1/corrupted/batch-big-reordered.omob": "hQHbIDMyxs7o3n2yjUQarZPpCyDr6qfB7geA5VFTngA",
+    "fixtures/sync-v1/corrupted/batch-big-spliced.omob": "7oTITF5PjnO5YD8PfD9LMp9cgCUJ1LXrVA9btKAVCzU",
+    "fixtures/sync-v1/corrupted/batch-big-truncated.omob": "bnrHssbx-aV3ZOL5SG-axLQTJd1crbPI6xnA9PV-vH4",
+    "fixtures/sync-v1/corrupted/corrupted.json": "yS-f-nIZj8ydlp5q1HYz08ODe22HD0ghMqBRBtCVTtU",
+    "fixtures/sync-v1/corrupted/rotated-out-signer.record.json": "Bkw3YjVzxdxyAjHogGVmqpxZDgkPcEIgyRvxTPa386A",
+    "fixtures/sync-v1/keys.json": "dAQn-YRA9W_d4U6DpwZpdGa-FNR7Fj4cuF7CLj66yxA",
+    "fixtures/sync-v1/objects/batch-a-epoch1.omob": "AHHt6dv9QVh706WRcorfvjcH8vSBbw5eCxQMTcmG5V8",
+    "fixtures/sync-v1/objects/batch-b-epoch1.omob": "gbKZQD8Te4WhIg4txsitFHQZkMLowlZxfBHwnJgzPKY",
+    "fixtures/sync-v1/objects/batch-big-epoch1.omob": "GMrsAOrX506cBh0yd6_RaCUM84fQ6aIkpxmLHwmY25o",
+    "fixtures/sync-v1/objects/batch-big2-epoch1.omob": "SmhU6iDi4xN-GQFa7hFCbUuQFcHphwUHv1LWDyW40No",
+    "fixtures/sync-v1/objects/batch-c-epoch3.omob": "aVOYwxuiX_olS7uMk5xr2JN7Yt7Cf5oi_9uAgQUkUjg",
+    "fixtures/sync-v1/objects/batch-d-epoch3-recovered.omob": "85uUihuIKdkRU0Ud85yq1AfWkEJczmNJdYJvNdetQoI",
+    "fixtures/sync-v1/objects/objects.json": "unp4pgy6BnnhJL7guGcoVyUnPOeo3RrRyc8mCUAJF0U",
+    "fixtures/sync-v1/objects/snapshot-c0.omob": "ofSOcmABE_J2GOouCfoPwzhvO_8WIrxr2xzuJFJIEYI",
+    "fixtures/sync-v1/objects/snapshot-c1.omob": "DFcD_LuAQ_McGSZbix9544BkAEGxbVNYLVJ6xvvGH3Q",
+    "fixtures/sync-v1/vectors.jsonl": "7XAOFnNTStihdcHQFKwe85al4r-ZRu29-0aaxFxXscM",
+    "fixtures/sync-v1/wraps.json": "Wv2wnJ5K6xbcZaafJurwbqFuH4sljWIeB9IiAVq--58",
+    "sync-format/chain.ts": "yBNGPdqHGoiu-zOFtiwB6juDOk9Wc-vrdy2BGxmoCNg",
+    "sync-format/frame.ts": "BuQNnV-S4AK0fvkyAqfW4HiwNql7ugrMz7P1vpy8v44",
+    "sync-format/index.ts": "N7oLnUiWnherC901My-Mo4eJj5O6HFL6SlzykMp4goU",
+    "sync-format/jcs.ts": "pGGYJLcxilrLLdl8T4c1ILqFKa5s844ZO2Ij18dQloE",
+    "sync-format/keys.ts": "uSlURA5rVBIOyd6za0h_Zl15cQqQMOT0NPO89lN_X4w",
+    "sync-format/object-types.ts": "QsxWdFb7ci-zsM7uDstWdgpKVk9ioksDW8WVGzdjkUo",
+    "sync-format/object.ts": "WijI-WxEgNwcL9pefwVAxmO6h77aDPcBDnOR4Kpa3Dg",
+    "sync-format/stream.ts": "iAEwXYX9tJwfl8USrEebIeeM5PQQxLq1LA4mra5nsUk"
+  }
+}
